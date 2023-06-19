@@ -1,12 +1,9 @@
-Welcome to rule the markets
+Welcome to Rule The Markets
 
 This repository is for the maintaining and developing the RTM website
 
+Owner:
+    Kinjal Gupta
 
-Credits:
-
-	Owner:
-		Kinjal Gupta
-
-	Developer:
-		Aditya Bhandari
+Developer:
+    Aditya Bhandari
