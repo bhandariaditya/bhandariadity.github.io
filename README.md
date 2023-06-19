@@ -1,4 +1,4 @@
-![Company logo](/assets/rtm_logo.jpg)
+![Company logo](rtm_logo.jpg)
 
 Welcome to Rule The Markets
 
