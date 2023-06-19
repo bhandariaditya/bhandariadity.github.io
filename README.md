@@ -1,4 +1,4 @@
-![Company logo](/bhandariaditya.github.io/assets/rtm_logo.jpg)
+![Company logo](/assets/rtm_logo.jpg)
 
 Welcome to Rule The Markets
 
